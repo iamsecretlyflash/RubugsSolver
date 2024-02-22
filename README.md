@@ -13,6 +13,6 @@ a) At any state, take the max over pieces of moves required to move a piece into
 
 ## RL-based solution
 
-Train a Deep neural network to predict the best move and value based on the current state. Use a tree search to get the best solutions
+Train a Deep neural network to predict the best move and value based on the current state. Use a tree search to get the best solutions (Can use MCTS)
 
 Reward : +1 for goal state, -1 for any other state
