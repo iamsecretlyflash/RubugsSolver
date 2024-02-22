@@ -8,6 +8,7 @@ A Random Start and a fixed end!
 
 ### 1) Informed $A^*$ Search 
 Heuritics :
+
 a) At any state, take the max over pieces of moves required to move a piece into the correct loaction
 
 ### 2) RL-based
